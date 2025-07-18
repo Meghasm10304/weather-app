@@ -14,8 +14,10 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 ---
 
 ## Screenshots
-    ![Weather App Screenshot](assets\Screenshot1.png)
-    ![Weather App Output](assets/Screenshot2.png)
+
+![Weather App Screenshot](assets/Screenshot1.png)
+![Weather App Output](assets/Screenshot2.png)
+
 ## 🖥️ Demo
 
 ✅ **Live Website**: [https://live-weather2.netlify.app](https://your-netlify-link.netlify.app)
