@@ -20,7 +20,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ## 🖥️ Demo
 
-✅ **Live Website**: [https://live-weather2.netlify.app](https://your-netlify-link.netlify.app)
+✅ **Live Website**: [https://live-weather2.netlify.app](https://live-weather2.netlify.app)
 
 ✅ **GitHub Repository**: [https://github.com/Meghasm10304/weather-app](https://github.com/Meghasm10304/weather-app)
 
